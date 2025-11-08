@@ -1,6 +1,6 @@
 # NVIDIA GPU Power Controller
 
-Professional GPU power management tool with automatic detection and real-time monitoring.
+GPU power management tool with automatic detection and real-time monitoring.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
